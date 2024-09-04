@@ -1,3 +1,28 @@
 body{
     background-color: darkred;
 }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+h3{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+H6 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+pre {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
